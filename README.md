@@ -1,4 +1,4 @@
-# EATERIO
+# CanteeNow
 Database System Project
 
 
